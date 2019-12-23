@@ -1,0 +1,2 @@
+//测试CopyWebpackPlugin插件的文件
+'hello'

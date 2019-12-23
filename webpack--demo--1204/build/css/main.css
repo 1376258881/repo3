@@ -1,0 +1,21 @@
+/*! wang */
+body{   
+    background-color: red;   
+}
+body{ 
+    background-color: 
+    #000000;
+}
+div{
+    border: 1px solid #c6c66c;
+    background-color:#ffffff ;
+    -webkit-transform: rotate(45deg);
+            transform: rotate(45deg);
+    background-image: url(../img/707db1c5ca948b9ffa6f23cc306c102c.jpg);
+}
+
+body div {
+  border: 1px solid #c6c66c;
+  background-color: #ffffff;
+}
+

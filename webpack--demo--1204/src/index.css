@@ -1,0 +1,11 @@
+@import './a.css'; 
+ body{ 
+    background-color: 
+    #000000;
+}
+div{
+    border: 1px solid #c6c66c;
+    background-color:#ffffff ;
+    transform: rotate(45deg);
+    background-image: url('./banner-nav_03.jpg');
+}
